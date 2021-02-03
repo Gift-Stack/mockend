@@ -1,3 +1,16 @@
 {
-  "name": "Gift"
+  "users": [
+    {
+      id: 1,
+      "name": "Gift",
+    },
+    {
+      id: 2,
+      "name": "Girl",
+    },
+    {
+      id: 3,
+      "name": "Boy",
+    },
+  ]
 }
