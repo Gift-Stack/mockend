@@ -7,6 +7,9 @@
     {
       "id": 2,
       "name": "Girl",
-    }
-  ]
+    },
+  ],
+  "post": {
+    "type": "post1"
+  }
 }
